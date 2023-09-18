@@ -9,5 +9,5 @@ app.get('/api/hello', (req, res) => {
 
 // Start the Express server
 app.listen(port, () => {
-  console.log(`Server is running on port ${port}`);
+  console.log(`Server is running on  ${port}`);
 });
